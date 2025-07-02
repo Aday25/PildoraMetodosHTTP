@@ -9,7 +9,7 @@ Descubre una guía visual y práctica para entender cómo tu navegador se comuni
 * Estructura de una URL  
 * Métodos HTTP más comunes: GET, POST, PUT, DELETE, etc. 
 * Códigos de estado más habituales  
-* Ejemplo práctico con fetch  
+* Ejemplo práctico con fetch 
 
 Aquí tenéis el enlace de la presentación completa:  
 [Presentación completa en Canva](https://metodos-de-peticion-http.my.canva.site/)
