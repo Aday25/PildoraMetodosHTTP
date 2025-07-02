@@ -25,4 +25,4 @@ Esta presentación es una introducción clara y visual al funcionamiento de la w
 
 
 
-<h1 align="center">¡Espero que la disfrutéis! 😉</p>
+<h1 align="center">¡Espero que la disfrutéis! 😉</h1>
