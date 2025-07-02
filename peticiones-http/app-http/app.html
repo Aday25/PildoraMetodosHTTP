@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>🤔​Simulador de Métodos HTTP</title>
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+
+  <h1>Simulador de Métodos HTTP</h1>
+
+  <p>Selecciona un método HTTP para ver qué haría en el servidor:</p>
+
+  <select id="methodSelect">
+    <option value="">-- Elige un método --</option>
+    <option value="GET">GET</option>
+    <option value="POST">POST</option>
+    <option value="PUT">PUT</option>
+    <option value="PATCH">PATCH</option>
+    <option value="DELETE">DELETE</option>
+    <option value="HEAD">HEAD</option>
+    <option value="OPTIONS">OPTIONS</option>
+    <option value="TRACE">TRACE</option>
+    <option value="CONNECT">CONNECT</option>
+  </select>
+
+  <button id="sendButton">Enviar</button>
+
+  <div id="simulation" class="card"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
