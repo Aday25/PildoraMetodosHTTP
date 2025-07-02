@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>📋​​Test-Métodos HTTP</title>
+  <link rel="stylesheet" href="test.css">
+</head>
+<body>
+
+  <h1>TEST: ¿Conoces los Métodos de HTTP?</h1>
+
+  <form id="quizForm">
+
+    <div class="question">
+      <p>1. ¿Qué método usarías para pedir datos sin modificar nada?</p>
+      <label><input type="radio" name="q1" value="POST"> POST</label>
+      <label><input type="radio" name="q1" value="GET"> GET</label>
+      <label><input type="radio" name="q1" value="DELETE"> DELETE</label>
+    </div>
+
+    <div class="question">
+      <p>2. ¿Qué método es mejor para actualizar solo parte de un recurso?</p>
+      <label><input type="radio" name="q2" value="PUT"> PUT</label>
+      <label><input type="radio" name="q2" value="PATCH"> PATCH</label>
+      <label><input type="radio" name="q2" value="OPTIONS"> OPTIONS</label>
+    </div>
+
+    <div class="question">
+      <p>3. ¿Qué método elimina un recurso?</p>
+      <label><input type="radio" name="q3" value="GET"> GET</label>
+      <label><input type="radio" name="q3" value="DELETE"> DELETE</label>
+      <label><input type="radio" name="q3" value="HEAD"> HEAD</label>
+    </div>
+
+    <div class="question">
+      <p>4. ¿Qué método envía datos para crear un recurso nuevo?</p>
+      <label><input type="radio" name="q4" value="POST"> POST</label>
+      <label><input type="radio" name="q4" value="GET"> GET</label>
+      <label><input type="radio" name="q4" value="PATCH"> PATCH</label>
+    </div>
+
+    <div class="question">
+      <p>5. ¿Qué método devuelve solo los encabezados sin contenido?</p>
+      <label><input type="radio" name="q5" value="HEAD"> HEAD</label>
+      <label><input type="radio" name="q5" value="OPTIONS"> OPTIONS</label>
+      <label><input type="radio" name="q5" value="POST"> POST</label>
+    </div>
+
+    <div class="question">
+      <p>6. ¿Qué método se usa para consultar qué métodos están permitidos en un recurso?</p>
+      <label><input type="radio" name="q6" value="OPTIONS"> OPTIONS</label>
+      <label><input type="radio" name="q6" value="DELETE"> DELETE</label>
+      <label><input type="radio" name="q6" value="PUT"> PUT</label>
+    </div>
+
+    <div class="question">
+      <p>7. ¿Qué método establece un túnel hacia el servidor, como en conexiones HTTPS?</p>
+      <label><input type="radio" name="q7" value="GET"> GET</label>
+      <label><input type="radio" name="q7" value="CONNECT"> CONNECT</label>
+      <label><input type="radio" name="q7" value="PATCH"> PATCH</label>
+    </div>
+
+    <div class="question">
+      <p>8. ¿Qué método se utiliza para probar la ruta que sigue una petición hasta el servidor (para depuración)?</p>
+      <label><input type="radio" name="q8" value="TRACE"> TRACE</label>
+      <label><input type="radio" name="q8" value="POST"> POST</label>
+      <label><input type="radio" name="q8" value="HEAD"> HEAD</label>
+    </div>
+
+    <div class="question">
+      <p>9. ¿Qué método se parece a GET, pero solo devuelve los encabezados?</p>
+      <label><input type="radio" name="q9" value="HEAD"> HEAD</label>
+      <label><input type="radio" name="q9" value="GET"> GET</label>
+      <label><input type="radio" name="q9" value="DELETE"> DELETE</label>
+    </div>
+
+    <button type="submit">Enviar respuestas</button>
+  </form>
+
+  <div id="result"></div>
+
+  <script src="test.js"></script>
+</body>
+</html>
