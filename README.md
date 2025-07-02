@@ -7,7 +7,7 @@ Descubre una guía visual y práctica para entender cómo tu navegador se comuni
 * Qué es HTTP y cómo funciona  
 * Roles del cliente y el servidor  
 * Estructura de una URL  
-* Métodos HTTP más comunes: GET, POST, PUT, DELETE, etc.  
+* Métodos HTTP más comunes: GET, POST, PUT, DELETE, etc. 
 * Códigos de estado más habituales  
 * Ejemplo práctico con fetch  
 
