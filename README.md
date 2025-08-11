@@ -1,6 +1,4 @@
-# <img src="./assets/logo-pequeño.png" alt="Logo" width="24" style="vertical-align: middle; margin-right: 8px;" /> Píldora - Métodos de Petición HTTP
-
-![Logo pequeño](./assets/logo-pequeño.png) Píldora - Métodos de Petición HTTP
+# <img src="hola.png" alt="Logo" width="24" style="vertical-align: middle; margin-right: 8px;" /> Píldora - Métodos de Petición HTTP
 
 Descubre una guía visual y práctica para entender cómo tu navegador se comunica con los servidores en internet.
 
@@ -21,23 +19,23 @@ Aquí tenéis el enlace de la presentación completa:
 ## Capturas de la web
 
 ### Página Principal  
-![Captura Principal](./assets/captura-principal.png)  
+![Captura Principal](captura-principal.png)  
 Una visión general de la página principal donde podrás acceder a todas las funcionalidades.
 
 ### Descubre  
-![Captura Descubre](./assets/captura-descubre.png)  
+![Captura Descubre](captura-descubre.png)  
 Aquí aprenderás con la píldora formativa sobre HTTP y sus métodos.
 
 ### Test  
-![Captura Test](./assets/captura-test.png)  
+![Captura Test](captura-test.png)  
 Zona para comprobar y simular métodos HTTP directamente.
 
 ### Práctica  
-![Captura Práctica](./assets/captura-practica.png)  
+![Captura Práctica](captura-practica.png)  
 Ejercicios prácticos para poner en marcha lo aprendido con fetch y APIs.
 
 ### Presentación  
-![Preview Presentación](./assets/preview.png)  
+![Preview Presentación](preview.png)  
 Una vista previa de la presentación que acompaña la píldora formativa.
 
 ---
@@ -45,5 +43,5 @@ Una vista previa de la presentación que acompaña la píldora formativa.
 <p align="center">¡Espero que la disfrutéis! 😉</p>
 
 <p align="center">
-  <img src="./assets/logo-pequeño.png" alt="Logo" width="80" />
+  <img src="logo.png" alt="Logo" width="80" />
 </p>
