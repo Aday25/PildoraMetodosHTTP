@@ -1,54 +1,51 @@
-# 📡 Píldora - Métodos de Petición HTTP
+# Píldora - Métodos de Petición HTTP
 
-¡Descubre de forma visual y práctica cómo tu navegador habla con los servidores en internet!
+Descubre una guía visual y práctica para entender cómo tu navegador se comunica con los servidores en internet.
 
 ## ¿Qué encontrarás?
 
-- Qué es HTTP y cómo funciona  
-- Roles del cliente y el servidor  
-- Estructura de una URL  
-- Métodos HTTP más comunes: GET, POST, PUT, DELETE, etc.  
-- Códigos de estado más habituales  
-- Ejemplo práctico con fetch  
+* Qué es HTTP y cómo funciona  
+* Roles del cliente y el servidor  
+* Estructura de una URL  
+* Métodos HTTP más comunes: GET, POST, PUT, DELETE, etc.  
+* Códigos de estado más habituales  
+* Ejemplo práctico con fetch  
 
-## 🔗 Mira la presentación completa aquí
-
-👉 [Presentación completa en Canva](https://metodos-de-peticion-http.my.canva.site/pildora-formativa)
-
-## 🚀 Prueba la experiencia completa en GitHub Pages
-
-Para disfrutar del simulador y práctica interactiva, visita la web desplegada aquí:
-
-[https://tuUsuario.github.io/tuRepo](https://tuUsuario.github.io/tuRepo)
-
-*Aquí podrás probar todo sin líos de configuraciones locales, directamente en tu navegador.*
+Aquí tenéis el enlace de la presentación completa:  
+[Presentación completa en Canva](https://metodos-de-peticion-http.my.canva.site/pildora-formativa)
 
 ---
 
-## 📸 Capturas de pantalla y qué puedes ver
+## Explora la web
 
-### Página principal  
-![Página principal](./public/captura-principal.png)  
-Esta es la bienvenida a la Píldora, donde te explico brevemente qué es HTTP y para qué sirve. Desde aquí accedes a todo el contenido y presentación.
+Te invito a navegar por las distintas páginas que componen esta web para una experiencia completa:
 
-### Descúbrelos (simulador)  
-![Descúbrelos](./public/captura-descubre.png)  
-En esta página puedes elegir un método HTTP y ver cómo funciona realmente en la comunicación cliente-servidor. Incluye imágenes y descripciones que lo hacen muy visual.
+### Página Principal
+![Página principal](public/captura-principal.png)  
+En esta página encontrarás una introducción clara y sencilla sobre HTTP, con acceso rápido a la píldora formativa.
 
-### Test práctico  
-![Test práctico](./public/captura-test.png)  
-Aquí tienes botones para probar en vivo las peticiones HTTP más comunes con ejemplos reales usando fetch y JSONPlaceholder. Perfecto para entender su comportamiento.
+### Descúbrelos
+![Descúbrelos](public/captura-descubre.png)  
+Aquí puedes interactuar con la presentación para entender visualmente qué es HTTP y cómo funciona.
 
-### Práctica completa  
-![Práctica completa](./public/captura-practica.png)  
-Un entorno práctico para seguir experimentando con métodos HTTP y ver resultados directamente en pantalla, con toda la ayuda del navbar y footer cargados automáticamente.
+### Test Práctico
+![Test práctico](public/captura-test.png)  
+Pon a prueba lo que has aprendido con preguntas y respuestas dinámicas sobre los métodos HTTP.
+
+### Práctica Completa
+![Práctica completa](public/captura-practica.png)  
+Experimenta con código real usando JavaScript para hacer peticiones HTTP y ver los resultados en directo.
+
+### Presentación
+![Presentación](public/preview.png)  
+Accede a la presentación completa para repasar los conceptos y reforzar tu aprendizaje.
 
 ---
 
-<p align="center">¡Espero que la disfrutes y te sea súper útil! 😉</p>
+<p align="center">¡Espero que la disfrutéis! 😉</p>
 
 ---
 
 <p align="center">
-  <img src="./public/logo.png" alt="Logo Ady" width="150" />
+  <img src="public/logo.png" alt="Logo Ady" width="150" />
 </p>
