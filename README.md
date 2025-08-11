@@ -12,8 +12,7 @@ Descubre una guía visual y práctica para entender cómo tu navegador se comuni
 * Ejemplo práctico con fetch 
 
 Aquí tenéis el enlace de la presentación completa:  
-[Presentación completa en Canva](https://www.canva.com/design/DAGt0VZcNEw/0tBFm0Xc4q1FOdeoO_AY7w/view?utm_content=DAGt0VZcNEw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3feec46bf6)
-
+[Presentación completa en Canva](https://metodos-de-peticion-http.my.canva.site/pildora-formativa)
 ## ¿Por qué verla?
 
 Esta presentación es una introducción clara y visual al funcionamiento de la web, ideal para quienes se inician en Desarrollo Web o desean entender cómo se comunican las aplicaciones con los servidores.
