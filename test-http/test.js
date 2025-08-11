@@ -79,6 +79,6 @@ document.getElementById("quizForm").addEventListener("submit", function (event) 
 });
 
 document.addEventListener('DOMContentLoaded', () => {
-  loadHTML('navbar', '/components/navbar.html');
-  loadHTML('footer', '/components/footer.html');
+  loadHTML('navbar', '../components/navbar.html');
+  loadHTML('footer', '../components/footer.html');
 });

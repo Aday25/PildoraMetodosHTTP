@@ -107,8 +107,8 @@ function hacerHEAD() {
 //TRACE – El Detective (no permitido en la mayoría de servidores)
 
 document.addEventListener('DOMContentLoaded', () => {
-  loadHTML('navbar', '/components/navbar.html');
-  loadHTML('footer', '/components/footer.html');
+  loadHTML('navbar', '../components/navbar.html');
+  loadHTML('footer', '../components/footer.html');
 });
 
 

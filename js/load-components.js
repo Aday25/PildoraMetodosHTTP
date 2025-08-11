@@ -13,5 +13,7 @@ async function loadHTML(id, url) {
 }
 
 
-loadHTML('navbar', '/PildoraMetodosHTTP/components/navbar.html');
-loadHTML('footer', '/PildoraMetodosHTTP/components/footer.html');
+document.addEventListener('DOMContentLoaded', () => {
+  loadHTML('navbar', './components/navbar.html');
+  loadHTML('footer', './components/footer.html');
+});

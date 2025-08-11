@@ -61,6 +61,6 @@ document.getElementById("sendButton").addEventListener("click", () => {
 });
 
 document.addEventListener('DOMContentLoaded', () => {
-  loadHTML('navbar', '/components/navbar.html');
-  loadHTML('footer', '/components/footer.html');
+  loadHTML('navbar', '../components/navbar.html');
+  loadHTML('footer', '../components/footer.html');
 });
