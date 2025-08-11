@@ -1,19 +1,20 @@
 body {
-  font-family: Arial, sans-serif;
-  max-width: 700px;
-  margin: 40px auto;
-  background: #f0f4f8;
-  padding: 20px;
-  border-radius: 8px;
+  background-color: #f9f9f9;
+  color: #333;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
-h1 {
+.title-test {
   text-align: center;
-  color: #333;
+  color: #1a1919;
 }
 
 form {
   margin-top: 20px;
+  max-width: 700px;
+  margin: 0 auto;
 }
 
 .question {
@@ -64,3 +65,5 @@ button:hover {
   font-size: 14px;
   background-color: #f9f9f9;
 }
+
+

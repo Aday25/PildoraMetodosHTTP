@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Footer</title>
+  <style>
+    footer {
+      background-color: #0077cc;
+      color: white;
+      padding: 20px 15px;
+      text-align: center;
+      font-size: 0.9rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 15px;
+    }
+    .footer-text p {
+      margin: 0;
+    }
+    .footer-nav-links a {
+      color: rgb(156, 191, 241);
+      text-decoration: none;
+      font-weight: 600;
+      margin: 0 5px;
+      transition: color 0.3s ease;
+    }
+    .footer-nav-links a:hover,
+    .footer-nav-links a:focus {
+      color: #ffd54f;
+    }
+    .contact-section {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .contact-links {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      font-size: 0.85rem;
+    }
+    .contact-links a {
+      color: white;
+      text-decoration: none;
+      transition: color 0.3s ease;
+    }
+    .contact-links a:hover,
+    .contact-links a:focus {
+      color: #ffd54f;
+    }
+    .logo-footer {
+      height: 40px;
+      margin-left: 10px;
+    }
+  </style>
+</head>
+<body>
+  <footer>
+    <div class="footer-text">
+      <p>Píldora formativa realizada como actividad en el Bootcamp de Factoría 5 - Grupo Fem-P4</p>
+    </div>
+
+    <div class="footer-nav-links">
+      <a href="../index.html">Inicio</a> |
+      <a href="../app-http/app.html">Descúbrelos</a> |
+      <a href="../test-http/test.html">Test</a> |
+      <a href="../practica-http/practica.html">Ejemplo práctico</a>
+    </div>
+
+    <div class="contact-section">
+      <div class="contact-links">
+        <span>© 2025 - Píldora - Métodos HTTP -</span>
+        <a href="mailto:aday.it25@gmail.com" aria-label="Contacto email">@Contacto</a>
+        <a href="https://github.com/Aday25" target="_blank" aria-label="GitHub">
+          <!-- SVG GitHub icon -->
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="white" viewBox="0 0 24 24">
+            <path
+              d="M12 .5C5.37.5 0 5.87 0 12.5c0 5.29 3.438 9.773 8.205 11.363.6.112.82-.26.82-.577 0-.285-.01-1.04-.015-2.04-3.338.726-4.042-1.61-4.042-1.61-.546-1.387-1.333-1.757-1.333-1.757-1.09-.745.082-.73.082-.73 1.204.086 1.838 1.237 1.838 1.237 1.07 1.835 2.807 1.305 3.492.997.108-.776.418-1.305.76-1.605-2.665-.3-5.467-1.335-5.467-5.933 0-1.31.47-2.38 1.236-3.22-.124-.303-.536-1.523.117-3.176 0 0 1.008-.322 3.3 1.23a11.52 11.52 0 013.003-.404c1.02.005 2.05.138 3.003.404 2.29-1.552 3.297-1.23 3.297-1.23.654 1.653.242 2.873.118 3.176.77.84 1.235 1.91 1.235 3.22 0 4.61-2.807 5.63-5.48 5.922.43.37.814 1.096.814 2.21 0 1.594-.015 2.88-.015 3.273 0 .32.216.694.825.576C20.565 22.27 24 17.78 24 12.5 24 5.87 18.627.5 12 .5z" />
+          </svg>
+        </a>
+        <a href="https://www.linkedin.com/in/adayasc/" target="_blank" aria-label="LinkedIn">
+          <!-- SVG LinkedIn icon -->
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="white" viewBox="0 0 24 24">
+            <path
+              d="M20.447 20.452h-3.554v-5.569c0-1.327-.025-3.037-1.851-3.037-1.851 0-2.135 1.445-2.135 2.939v5.667H9.352V9h3.414v1.561h.05c.476-.9 1.637-1.851 3.369-1.851 3.603 0 4.27 2.372 4.27 5.456v6.286zM5.337 7.433a2.07 2.07 0 110-4.14 2.07 2.07 0 010 4.14zm1.777 13.019H3.56V9h3.554v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.543C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.272V1.729C24 .774 23.2 0 22.225 0z" />
+          </svg>
+        </a>
+      </div>
+      <img src="../public/logo.png" alt="Logo Ady" class="logo-footer" />
+    </div>
+  </footer>
+</body>
+</html>

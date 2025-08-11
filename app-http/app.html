@@ -1,34 +1,50 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>🤔​Simulador de Métodos HTTP</title>
   <link rel="stylesheet" href="app.css">
+  <link rel="stylesheet" href="../css/styles.css">
 </head>
+
 <body>
 
-  <h1>Simulador de Métodos HTTP</h1>
+  <div id="navbar"></div>
 
-  <p>Selecciona un método HTTP para ver qué haría en el servidor:</p>
+  <main>
+    <h1 class="app-title">Simulador de Métodos HTTP</h1>
+    <p class="intro-text">Selecciona un método HTTP para ver qué haría en el servidor:</p>
 
-  <select id="methodSelect">
-    <option value="">-- Elige un método --</option>
-    <option value="GET">GET</option>
-    <option value="POST">POST</option>
-    <option value="PUT">PUT</option>
-    <option value="PATCH">PATCH</option>
-    <option value="DELETE">DELETE</option>
-    <option value="HEAD">HEAD</option>
-    <option value="OPTIONS">OPTIONS</option>
-    <option value="TRACE">TRACE</option>
-    <option value="CONNECT">CONNECT</option>
-  </select>
+    <div class="container">
+      <select id="methodSelect">
+        <option value="">-- Elige un método --</option>
+        <option value="GET">GET</option>
+        <option value="POST">POST</option>
+        <option value="PUT">PUT</option>
+        <option value="PATCH">PATCH</option>
+        <option value="DELETE">DELETE</option>
+        <option value="HEAD">HEAD</option>
+        <option value="OPTIONS">OPTIONS</option>
+        <option value="TRACE">TRACE</option>
+        <option value="CONNECT">CONNECT</option>
+      </select>
 
-  <button id="sendButton">Enviar</button>
+      <button id="sendButton">Enviar</button>
 
-  <div id="simulation" class="card"></div>
+      <div class="simulation-wrapper" id="simulationWrapper" style="display:none;">
+        <div id="simulation" class="card"></div>
+        <img id="methodImage" src="" alt="Imagen método" class="method-image" style="display:none;" />
+      </div>
+    </div>
 
-  <script src="app.js"></script>
+    <div id="footer"></div>
+
+    <script src="../js/load-components.js"></script>
+
+
+    <script src="app.js"></script>
 </body>
+
 </html>

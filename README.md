@@ -1,4 +1,6 @@
-# Píldora - Métodos de Petición HTTP
+# <img src="./assets/logo-pequeño.png" alt="Logo" width="24" style="vertical-align: middle; margin-right: 8px;" /> Píldora - Métodos de Petición HTTP
+
+![Logo pequeño](./assets/logo-pequeño.png) Píldora - Métodos de Petición HTTP
 
 Descubre una guía visual y práctica para entender cómo tu navegador se comunica con los servidores en internet.
 
@@ -7,17 +9,41 @@ Descubre una guía visual y práctica para entender cómo tu navegador se comuni
 * Qué es HTTP y cómo funciona  
 * Roles del cliente y el servidor  
 * Estructura de una URL  
-* Métodos HTTP más comunes: GET, POST, PUT, DELETE, etc. 
+* Métodos HTTP más comunes: GET, POST, PUT, DELETE, etc.  
 * Códigos de estado más habituales  
-* Ejemplo práctico con fetch 
+* Ejemplo práctico con fetch  
 
 Aquí tenéis el enlace de la presentación completa:  
-[Presentación completa en Canva](https://metodos-de-peticion-http.my.canva.site/)
+[Presentación completa en Canva](https://metodos-de-peticion-http.my.canva.site/pildora-formativa)
 
-## ¿Por qué verla?
+---
 
-Esta presentación es una introducción clara y visual al funcionamiento de la web, ideal para quienes se inician en Desarrollo Web o desean entender cómo se comunican las aplicaciones con los servidores.
+## Capturas de la web
+
+### Página Principal  
+![Captura Principal](./assets/captura-principal.png)  
+Una visión general de la página principal donde podrás acceder a todas las funcionalidades.
+
+### Descubre  
+![Captura Descubre](./assets/captura-descubre.png)  
+Aquí aprenderás con la píldora formativa sobre HTTP y sus métodos.
+
+### Test  
+![Captura Test](./assets/captura-test.png)  
+Zona para comprobar y simular métodos HTTP directamente.
+
+### Práctica  
+![Captura Práctica](./assets/captura-practica.png)  
+Ejercicios prácticos para poner en marcha lo aprendido con fetch y APIs.
+
+### Presentación  
+![Preview Presentación](./assets/preview.png)  
+Una vista previa de la presentación que acompaña la píldora formativa.
 
 ---
 
 <p align="center">¡Espero que la disfrutéis! 😉</p>
+
+<p align="center">
+  <img src="./assets/logo-pequeño.png" alt="Logo" width="80" />
+</p>

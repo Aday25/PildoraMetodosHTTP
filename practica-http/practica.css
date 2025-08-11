@@ -1,17 +1,18 @@
-/* Estilo general */
 body {
-  font-family: 'Segoe UI', sans-serif;
-  background: linear-gradient(to bottom, #e9f0f7, #ffffff);
-  padding: 2rem;
+  background-color: #f9f9f9;
+  color: #333;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
+  padding: 0;
 }
 
+
 /* Título */
-h1 {
+.title-practica {
   text-align: center;
   margin-bottom: 2rem;
   font-size: 2rem;
-  color: #0e4da4;
+  color: #000000;
 }
 
 /* Contenedor de botones en grid */
@@ -57,4 +58,6 @@ button:hover {
   font-size: 1rem;
   color: #333;
   word-break: break-word;
+  margin-bottom: 20px;
 }
+

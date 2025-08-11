@@ -77,3 +77,8 @@ document.getElementById("quizForm").addEventListener("submit", function (event) 
   result.innerHTML = `<strong>Obtuviste ${score} de ${questionDivs.length} respuestas correctas.</strong>`;
   result.style.color = score === questionDivs.length ? "green" : "black";
 });
+
+document.addEventListener('DOMContentLoaded', () => {
+  loadHTML('navbar', '../components/navbar.html');
+  loadHTML('footer', '../components/footer.html');
+});
