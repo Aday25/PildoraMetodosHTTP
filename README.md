@@ -1,56 +1,40 @@
-<p>
-  <img src="./assets/hola.png" alt="Emoji" width="30" style="vertical-align: middle; margin-right: 10px;">
-  <strong>Píldora - Métodos de Petición HTTP</strong>
-</p>
+# <img src="hola.png" alt="logo" width="24" style="vertical-align:middle; margin-right:8px;"> Píldora - Métodos de Petición HTTP
 
 Descubre una guía visual y práctica para entender cómo tu navegador se comunica con los servidores en internet.
 
 ## ¿Qué encontrarás?
 
-* Qué es HTTP y cómo funciona  
-* Roles del cliente y el servidor  
-* Estructura de una URL  
-* Métodos HTTP más comunes: GET, POST, PUT, DELETE, etc.  
-* Códigos de estado más habituales  
-* Ejemplo práctico con fetch  
+- Qué es HTTP y cómo funciona  
+- Roles del cliente y el servidor  
+- Estructura de una URL  
+- Métodos HTTP más comunes: GET, POST, PUT, DELETE, etc.  
+- Códigos de estado más habituales  
+- Ejemplo práctico con fetch  
 
-Aquí tenéis el enlace de la presentación completa:  
+## Explora las páginas del sitio:
+
+- **Principal:** Resumen e introducción a los conceptos de HTTP  
+  ![Vista Principal](captura-principal.png)  
+
+- **Descubre:** Profundización en métodos HTTP y códigos de estado  
+  ![Vista Descubre](captura-descubre.png)  
+
+- **Práctica:** Prueba los métodos HTTP con botones interactivos en JavaScript  
+  ![Vista Práctica](captura-practica.png)  
+
+- **Test:** Evalúa tus conocimientos con quizzes y simulaciones  
+  ![Vista Test](captura-test.png)  
+
+- **Presentación:** Visualiza la píldora formativa completa  
+  ![Vista Presentación](preview.png)  
+
+## ¿Por qué verla?
+
+Esta presentación es una introducción clara y visual al funcionamiento de la web — ideal para quienes se inician en Desarrollo Web o quieren entender cómo las aplicaciones se comunican con los servidores.
+
+---
+
+### Aquí tienes el enlace a la presentación completa:  
 [Presentación completa en Canva](https://metodos-de-peticion-http.my.canva.site/pildora-formativa)
 
----
-
-## Explora la web
-
-Te invito a navegar por las distintas páginas que componen esta web para una experiencia completa:
-
-### Página Principal
-![Página principal](./assets/captura-principal.png)  
-En esta página encontrarás una introducción clara y sencilla sobre HTTP, con acceso rápido a la píldora formativa.
-
-### Descúbrelos
-![Descúbrelos](./assets/captura-descubre.png)  
-Aquí puedes interactuar con la presentación para entender visualmente qué es HTTP y cómo funciona.
-
-### Test Práctico
-![Test práctico](./assets/captura-test.png)  
-Pon a prueba lo que has aprendido con preguntas y respuestas dinámicas sobre los métodos HTTP.
-
-### Práctica Completa
-![Práctica completa](./assets/captura-practica.png)  
-Experimenta con código real usando JavaScript para hacer peticiones HTTP y ver los resultados en directo.
-
-### Presentación
-![Presentación](./assets/preview.png)  
-Accede a la presentación completa para repasar los conceptos y reforzar tu aprendizaje.
-
----
-
 <p align="center">¡Espero que la disfrutéis! 😉</p>
-
----
-
-<p align="center">
-  <img src="./assets/logo.png" alt="Logo Ady" width="150" />
-</p>
-
-</p>
