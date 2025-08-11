@@ -1,4 +1,7 @@
-# Píldora - Métodos de Petición HTTP
+<p>
+  <img src="./assets/hola.png" alt="Emoji" width="30" style="vertical-align: middle; margin-right: 10px;">
+  <strong>Píldora - Métodos de Petición HTTP</strong>
+</p>
 
 Descubre una guía visual y práctica para entender cómo tu navegador se comunica con los servidores en internet.
 
@@ -21,23 +24,23 @@ Aquí tenéis el enlace de la presentación completa:
 Te invito a navegar por las distintas páginas que componen esta web para una experiencia completa:
 
 ### Página Principal
-![Página principal](public/captura-principal.png)  
+![Página principal](./assets/captura-principal.png)  
 En esta página encontrarás una introducción clara y sencilla sobre HTTP, con acceso rápido a la píldora formativa.
 
 ### Descúbrelos
-![Descúbrelos](public/captura-descubre.png)  
+![Descúbrelos](./assets/captura-descubre.png)  
 Aquí puedes interactuar con la presentación para entender visualmente qué es HTTP y cómo funciona.
 
 ### Test Práctico
-![Test práctico](public/captura-test.png)  
+![Test práctico](./assets/captura-test.png)  
 Pon a prueba lo que has aprendido con preguntas y respuestas dinámicas sobre los métodos HTTP.
 
 ### Práctica Completa
-![Práctica completa](public/captura-practica.png)  
+![Práctica completa](./assets/captura-practica.png)  
 Experimenta con código real usando JavaScript para hacer peticiones HTTP y ver los resultados en directo.
 
 ### Presentación
-![Presentación](public/preview.png)  
+![Presentación](./assets/preview.png)  
 Accede a la presentación completa para repasar los conceptos y reforzar tu aprendizaje.
 
 ---
@@ -47,5 +50,7 @@ Accede a la presentación completa para repasar los conceptos y reforzar tu apre
 ---
 
 <p align="center">
-  <img src="public/logo.png" alt="Logo Ady" width="150" />
+  <img src="./assets/logo.png" alt="Logo Ady" width="150" />
+</p>
+
 </p>
