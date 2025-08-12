@@ -1,7 +1,7 @@
 # <img src="hola.png" alt="logo" width="80" style="vertical-align:middle; margin-right:8px;"> Píldora - Métodos de Petición HTTP
 
 
-Descubre una guía visual y práctica para entender cómo tu navegador se comunica con los servidores en internet.
+Descubre una web que incluye una guía visual en una presentación didáctica de 45 diapositivas y 3 prácticas para entender cómo tu navegador se comunica con los servidores en internet.
 
 ## ¿Qué encontrarás?
 
