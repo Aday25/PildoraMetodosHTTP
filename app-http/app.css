@@ -51,7 +51,7 @@ button:hover {
   background-color: #0056b3;
 }
 
-.card {
+a.card {
   margin: 30px auto 0 auto; /* arriba 30px, lados auto para centrar */
   padding: 20px;
   background: white;
@@ -63,6 +63,9 @@ button:hover {
   width: 100%;
   box-sizing: border-box;
   margin-bottom: 20px;
+
+  flex: 1 1 300px; /* ancho flexible con mínimo 300px */
+  max-width: 400px; /* no crece más de esto */
 }
 
 .simulation-wrapper {
@@ -70,6 +73,7 @@ button:hover {
   align-items: flex-start;
   gap: 20px;
   margin-top: 30px;
+  flex-wrap: wrap;
 }
 
 .method-image {
@@ -103,3 +107,14 @@ main {
   flex-shrink: 0;
 }
 
+@media (max-width: 768px) {
+  .simulation-wrapper {
+    flex-direction: column; /* apila la card y la imagen */
+    align-items: center;
+  }
+
+  .card {
+    flex: 1 1 100%;
+    max-width: 100%;
+  }
+}
