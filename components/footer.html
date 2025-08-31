@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -16,9 +17,23 @@
       align-items: center;
       gap: 15px;
     }
+
     .footer-text p {
       margin: 0;
     }
+
+    .factoria-link {
+      color: orange;
+      /* hace el texto naranja */
+      text-decoration: none;
+      /* opcional, quita el subrayado */
+    }
+
+    .factoria-link:hover {
+      text-decoration: underline;
+      /* opcional, subrayado al pasar el ratón */
+    }
+
     .footer-nav-links a {
       color: rgb(156, 191, 241);
       text-decoration: none;
@@ -26,10 +41,12 @@
       margin: 0 5px;
       transition: color 0.3s ease;
     }
+
     .footer-nav-links a:hover,
     .footer-nav-links a:focus {
       color: #ffd54f;
     }
+
     .contact-section {
       display: flex;
       align-items: center;
@@ -37,31 +54,39 @@
       flex-wrap: wrap;
       justify-content: center;
     }
+
     .contact-links {
       display: flex;
       align-items: center;
       gap: 15px;
       font-size: 0.85rem;
     }
+
     .contact-links a {
       color: white;
       text-decoration: none;
       transition: color 0.3s ease;
     }
+
     .contact-links a:hover,
     .contact-links a:focus {
       color: #ffd54f;
     }
+
     .logo-footer {
       height: 40px;
       margin-left: 10px;
     }
   </style>
 </head>
+
 <body>
   <footer>
     <div class="footer-text">
-      <p>Píldora formativa realizada como actividad en el Bootcamp de Factoría 5 - Grupo Fem-P4</p>
+      <p>
+        Píldora formativa realizada como actividad en el Bootcamp de
+        <a href="https://factoriaf5.org/" target="_blank" class="factoria-link">Factoría F5</a> - Grupo Fem-P4
+      </p>
     </div>
 
     <div class="footer-nav-links">
@@ -94,4 +119,5 @@
     </div>
   </footer>
 </body>
+
 </html>
